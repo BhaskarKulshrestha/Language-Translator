@@ -1,6 +1,6 @@
 <h1>Language Translator Project Documentation</h1>
 <h2>Introduction.</h2>
-    The Language Translator project is a simple web application that allows users to translate text between English, Hindi, and Sanskrit languages using the MyMemory API. This project demonstrates how to integrate an API into a web application and how to use JavaScript to handle user input and API responses.
+    The Language Translator project is a simple web application that allows users to translate text between English, Hindi, French , German and Spanish using the MyMemory API. This project demonstrates how to integrate an API into a web application and how to use JavaScript to handle user input and API responses.
 
 <h2>Features</h2>
 
@@ -53,3 +53,8 @@ const url = `https://api.mymemory.translated.net/get?q=${text}&langpair=${source
 
 <h2>Conclusion</h2>
 The Language Translator project demonstrates how to integrate an API into a web application using JavaScript. By following the steps outlined in this documentation, you can easily set up and run the project on your local machine and start translating text between different languages.
+
+-------------------------------------------------------------------------------------
+*Check it Out : https://bhaskarkulshrestha.github.io/Language-Translator/*
+
+-------------------------------------------------------------------------------------
