@@ -1,0 +1,17 @@
+{
+  "name": "exper",
+  "version": "1.0.0",
+  "description": "Language translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhaskar Kulshrestha",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.1.0",
+    "express": "^4.18.2",
+    "google-translate-api": "^2.3.0",
+    "node-fetch": "^3.3.1"
+  }
+}
