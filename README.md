@@ -57,4 +57,8 @@ The Language Translator project demonstrates how to integrate an API into a web 
 -------------------------------------------------------------------------------------
 *Check it Out : https://bhaskarkulshrestha.github.io/Language-Translator/*
 
+**OR**
+
+*Check it Out : https://thelanguagetranslator1.netlify.app/*
+
 -------------------------------------------------------------------------------------
